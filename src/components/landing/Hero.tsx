@@ -1,11 +1,11 @@
-import { motion } from "motion/react";
+import { motion, type Variants } from "motion/react";
 import { ArrowRight, Play, Sparkles, TrendingUp, Zap, Globe2, BarChart3 } from "lucide-react";
 
-const stagger = {
+const stagger: Variants = {
   hidden: {},
   show: { transition: { staggerChildren: 0.08, delayChildren: 0.1 } },
 };
-const rise = {
+const rise: Variants = {
   hidden: { opacity: 0, y: 24 },
   show: { opacity: 1, y: 0, transition: { duration: 0.7, ease: [0.22, 1, 0.36, 1] } },
 };
