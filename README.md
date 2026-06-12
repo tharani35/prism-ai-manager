@@ -153,23 +153,25 @@ npm run build
 
 ### Landing Page
 
-*Add Screenshot Here*
+<img width="960" height="600" alt="landing png (2)" src="https://github.com/user-attachments/assets/90eeaa7b-5120-405e-a736-e85a78f3d719" />
 
-### Login Page
+<img width="960" height="600" alt="Screenshot 2026-06-12 183525" src="https://github.com/user-attachments/assets/17262b24-9b22-4d58-b9a4-36e899db65da" />
 
-*Add Screenshot Here*
 
 ### Signup Page
 
-*Add Screenshot Here*
+<img width="960" height="600" alt="signup png" src="https://github.com/user-attachments/assets/53ce0499-4e49-4f59-8d30-78121166099b" />
+
 
 ### Dashboard
 
-*Add Screenshot Here*
+<img width="960" height="600" alt="dashboard png" src="https://github.com/user-attachments/assets/1a6cb4dc-fdbf-441f-9f39-6300333673a0" />
+
 
 ### Analytics Page
 
-*Add Screenshot Here*
+<img width="960" height="600" alt="analytics png" src="https://github.com/user-attachments/assets/f706ec99-c384-40b5-8d28-ddebf13f2e66" />
+
 
 ---
 
