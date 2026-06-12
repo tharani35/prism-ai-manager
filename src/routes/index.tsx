@@ -14,13 +14,13 @@ import { Footer } from "@/components/landing/Footer";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Lumen — AI-Powered Content Manager for Modern Teams" },
+      { title: "PRISM — AI-Powered Content Manager for Modern Teams" },
       {
         name: "description",
         content:
           "Generate high-performing content, automate workflows, collaborate with your team, and gain deep content insights from one intelligent AI platform.",
       },
-      { property: "og:title", content: "Lumen — AI-Powered Content Manager" },
+      { property: "og:title", content: "PRISM — AI-Powered Content Manager" },
       { property: "og:description", content: "Create, manage and scale content with AI." },
     ],
   }),

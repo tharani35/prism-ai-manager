@@ -9,7 +9,7 @@ export function AnalyticsPreview() {
         <SectionHeader
           eyebrow="Insights"
           title="Decisions backed by intelligence"
-          desc="Track performance, surface opportunities, and let Lumen forecast what to ship next."
+          desc="Track performance, surface opportunities, and let PRISM forecast what to ship next."
         />
 
         <motion.div

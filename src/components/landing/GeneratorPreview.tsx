@@ -4,7 +4,7 @@ import { Sparkles, Wand2, ChevronDown } from "lucide-react";
 import { SectionHeader } from "./Features";
 
 const FULL_TEXT =
-  "Introducing Lumen Studio — the AI workspace where ideas become campaigns. Draft posts, repurpose long-form into 12 channels, and ship on-brand assets in minutes, not weeks.";
+  "Introducing PRISM Studio — the AI workspace where ideas become campaigns. Draft posts, repurpose long-form into 12 channels, and ship on-brand assets in minutes, not weeks.";
 
 export function GeneratorPreview() {
   const [typed, setTyped] = useState("");
@@ -45,7 +45,7 @@ export function GeneratorPreview() {
               Your brand's voice, <span className="text-gradient-brand">amplified.</span>
             </h2>
             <p className="mt-5 text-slate-400">
-              Lumen learns your tone, audience, and goals — then drafts campaign-ready content in any
+              PRISM learns your tone, audience, and goals — then drafts campaign-ready content in any
               format. Customize tone, length, and structure in a single click.
             </p>
             <ul className="mt-6 space-y-3 text-sm text-slate-300">
@@ -70,7 +70,7 @@ export function GeneratorPreview() {
             <div className="rounded-2xl glass-strong glow-border p-5">
               <div className="flex items-center justify-between border-b border-white/5 pb-3">
                 <div className="flex items-center gap-2 text-xs text-slate-300">
-                  <Wand2 className="h-3.5 w-3.5 text-[color:var(--brand-purple)]" /> Lumen Studio
+                  <Wand2 className="h-3.5 w-3.5 text-[color:var(--brand-purple)]" /> PRISM Studio
                 </div>
                 <div className="flex items-center gap-2 text-[11px] text-slate-500">
                   <span className="inline-flex items-center gap-1 rounded-md bg-white/5 px-2 py-1">Tone: Confident <ChevronDown className="h-3 w-3" /></span>
@@ -81,7 +81,7 @@ export function GeneratorPreview() {
               <div className="mt-4">
                 <div className="text-[10px] uppercase tracking-wider text-slate-500">Prompt</div>
                 <div className="mt-1.5 rounded-lg bg-white/[0.04] p-3 text-sm text-slate-200">
-                  Write a launch announcement for Lumen 2.0 highlighting agentic workflows.
+                  Write a launch announcement for PRISM highlighting agentic workflows.
                 </div>
               </div>
 

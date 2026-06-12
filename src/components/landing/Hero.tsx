@@ -23,7 +23,7 @@ export function Hero() {
           <span className="grid h-4 w-4 place-items-center rounded-full" style={{ background: "linear-gradient(135deg,#3B82F6,#8B5CF6)" }}>
             <Sparkles className="h-2.5 w-2.5 text-white" />
           </span>
-          Introducing Lumen 2.0 — Agentic content workflows
+          Introducing PRISM — Agentic content workflows
           <ArrowRight className="h-3 w-3 opacity-70" />
         </motion.div>
 
@@ -94,7 +94,7 @@ function HeroDashboard() {
             <span className="h-2.5 w-2.5 rounded-full bg-green-400/70" />
           </div>
           <div className="rounded-md bg-white/5 px-3 py-1 text-[11px] text-slate-400">
-            lumen.app / workspace / content
+            prism.app / workspace / content
           </div>
           <div className="text-[11px] text-slate-500">v2.0</div>
         </div>

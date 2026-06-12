@@ -18,7 +18,7 @@ export function Footer() {
                 style={{ background: "linear-gradient(135deg,#3B82F6,#8B5CF6)" }}>
                 <Sparkles className="h-4 w-4 text-white" />
               </div>
-              <span className="text-base font-semibold text-white">Lumen</span>
+              <span className="text-base font-semibold text-white">PRISM</span>
             </a>
             <p className="mt-4 max-w-xs text-sm text-slate-400">
               The intelligent content platform for modern teams.
@@ -38,7 +38,7 @@ export function Footer() {
           ))}
         </div>
         <div className="mt-12 flex flex-col items-center justify-between gap-4 border-t border-white/5 pt-6 sm:flex-row">
-          <p className="text-xs text-slate-500">© {new Date().getFullYear()} Lumen Labs, Inc. All rights reserved.</p>
+          <p className="text-xs text-slate-500">© {new Date().getFullYear()} PRISM AI, Inc. All rights reserved.</p>
           <div className="flex items-center gap-4 text-slate-400">
             <a href="#" className="hover:text-white"><Twitter className="h-4 w-4" /></a>
             <a href="#" className="hover:text-white"><Github className="h-4 w-4" /></a>

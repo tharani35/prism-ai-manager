@@ -3,7 +3,7 @@ import { SectionHeader } from "./Features";
 
 const items = [
   {
-    quote: "Lumen replaced four tools and shipped our content velocity 3x. The AI quality is just on another level.",
+    quote: "PRISM replaced four tools and shipped our content velocity 3x. The AI quality is just on another level.",
     name: "Avery Chen",
     role: "Head of Content",
     company: "Northwind",
@@ -35,7 +35,7 @@ export function Testimonials() {
         <SectionHeader
           eyebrow="Customers"
           title="Loved by content teams"
-          desc="From scrappy startups to global enterprises — teams ship more with Lumen."
+          desc="From scrappy startups to global enterprises — teams ship more with PRISM."
         />
         <div className="mt-14 grid gap-5 md:grid-cols-3">
           {items.map((t, i) => (

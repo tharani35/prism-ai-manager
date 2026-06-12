@@ -21,7 +21,7 @@ export function FinalCTA() {
             Ready to transform your <br className="hidden sm:block" />content workflow?
           </h2>
           <p className="mx-auto mt-5 max-w-xl text-slate-400">
-            Join thousands of teams using Lumen to plan, generate, and ship better content faster.
+            Join thousands of teams using PRISM to plan, generate, and ship better content faster.
           </p>
           <div className="mt-9 flex flex-wrap items-center justify-center gap-3">
             <a
